@@ -1,0 +1,6 @@
+Server:
+python server.py
+
+Client:
+python client.py --client-id 0
+python client.py --client-id 1
